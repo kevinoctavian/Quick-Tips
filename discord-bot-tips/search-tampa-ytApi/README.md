@@ -50,27 +50,27 @@ data yang direturn dari **searchSong** kira kira akan seperti ini
 ```json
 [
   {
-    "id": 'IcrbM1l_BoI',
-    "title": 'Avicii - Wake Me Up (Official Video)',
+    "id": "IcrbM1l_BoI",
+    "title": "Avicii - Wake Me Up (Official Video)",
     "description": "Listen to Avicii's latest single “SOS” here: https://Avicii.ln
 k.to/SOS.",
-    "durationFormatted": '0:00',
+    "durationFormatted": "0:00",
     "duration": 273000,
-    "uploadedAt": '7 years ago',
+    "uploadedAt": "7 years ago",
     "views": 1992340296,
-    "thumbnail": Thumbnail {
-      "id": 'IcrbM1l_BoI',
+    "thumbnail": {
+      "id": "IcrbM1l_BoI",
       "width": 720,
       "height": 404,
-      "url": 'https://i.ytimg.com/vi/IcrbM1l_BoI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFr
-yq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDEKeYfubdW5-4v8fkYI_8fv0UqhA'
+      "url": "https://i.ytimg.com/vi/IcrbM1l_BoI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFr
+yq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDEKeYfubdW5-4v8fkYI_8fv0UqhA"
     },
-    "channel": Channel {
-      "name": 'Avicii',
+    "channel": {
+      "name": "Avicii",
       "verified": true,
-      "id": 'UCPHjpfnnGklkRBBTd0k6aHg',
-      "url": 'https://www.youtube.com/channel/UCPHjpfnnGklkRBBTd0k6aHg',
-      "icon": [Object],
+      "id": "UCPHjpfnnGklkRBBTd0k6aHg",
+      "url": "https://www.youtube.com/channel/UCPHjpfnnGklkRBBTd0k6aHg",
+      "icon": [{}],
       "subscribers": null
     }
   }
